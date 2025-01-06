@@ -35,6 +35,11 @@ why not ? :3
 
 you make things more fast  
 
+# how to install
+- download the new.ps1 file
+- place it in folder such as `c:\scripts`
+- add `c:\scripts` to your environment Path
+
 # flags
 ## Folder
 | Flag | description |  
